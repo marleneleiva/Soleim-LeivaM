@@ -26,7 +26,7 @@ body {
 
 }
 
-/***************************************** M A I N *****************************************/
+/***************************************** M A I N HOME *****************************************/
 
 .titulo {
     text-align: center;
@@ -131,7 +131,7 @@ h4 {
     margin: 10px;
     margin-left: 40px;
     margin-right: 40px;
-    
+
 }
 
 
@@ -153,33 +153,54 @@ footer .nav a {
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
     margin: 60px;
+    text-align: center;
 
 }
 
 .parrafoQuienes {
+
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    margin: 100px;
-    margin-top: 50px;
-    font-size: 30px;
+    font-size: 23px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 40px;
+    text-align: center;
+    }
+
+
+
+.tarjetasQuienes {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
+    margin-top: 70px;
+
 
 }
 
-.contenedorParrafo {
-    background-color: rgba(128, 128, 128, 0.553);
+.carDesc {
+    color: black;
 }
+
+.fondoTarj {
+    background-color:rgb(202, 198, 198);
+    
+    
+}
+
+
 
 
 /*********************************SERVICIOS MAIN CARDS****************************************/
 
 .contenedorServi {
     border: 1px white solid;
-    
-    
+
+
 
 }
 
@@ -198,7 +219,7 @@ footer .nav a {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 
 .imgServi {
@@ -210,4 +231,28 @@ footer .nav a {
 }
 
 
+/*********************************** CONTACTO ******************************************/
 
+.subtituloFormu {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.tituloContacto {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+
+
+
+/*********************************Footer**************/
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
