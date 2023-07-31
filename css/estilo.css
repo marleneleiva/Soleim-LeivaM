@@ -168,7 +168,7 @@ footer .nav a {
     border: 1px solid white;
     border-radius: 40px;
     text-align: center;
-    }
+}
 
 
 
@@ -187,9 +187,9 @@ footer .nav a {
 }
 
 .fondoTarj {
-    background-color:rgb(202, 198, 198);
-    
-    
+    background-color: rgb(202, 198, 198);
+
+
 }
 
 
@@ -248,11 +248,4 @@ footer .nav a {
 
 
 
-/*********************************Footer**************/
-
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-}
+/*******************footer*****************/
