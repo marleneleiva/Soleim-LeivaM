@@ -199,6 +199,7 @@ footer .nav a {
 
 .contenedorServi {
     border: 1px white solid;
+    margin: 20px;
 
 
 
@@ -248,4 +249,11 @@ footer .nav a {
 
 
 
-/*******************footer*****************/
+/*******************carrusel*****************/
+
+.carruselCasas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
