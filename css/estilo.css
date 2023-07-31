@@ -192,9 +192,6 @@ footer .nav a {
 
 }
 
-
-
-
 /*********************************SERVICIOS MAIN CARDS****************************************/
 
 .contenedorServi {
@@ -245,15 +242,4 @@ footer .nav a {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     margin: 50px;
-}
-
-
-
-/*******************carrusel*****************/
-
-.carruselCasas {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
 }
